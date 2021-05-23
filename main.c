@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+	the program is educational
+*/
 int main()
 {
 	int a, b;
