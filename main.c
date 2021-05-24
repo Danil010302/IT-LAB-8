@@ -1,5 +1,5 @@
 #include <stdio.h>
-/*
+/* 
 	the program is educational
 */
 int main()
@@ -11,5 +11,6 @@ int main()
 	printf("Diff = %d\n", a-b);
 	printf("Mult = %d\n", a*b);
 	printf("Div = %d\n", a/b);
+	printf("test\n");
 	return 0;
 }
